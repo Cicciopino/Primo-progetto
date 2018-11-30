@@ -85,8 +85,8 @@
     ],
     "prefer-const": true,
     "quotemark": [
-      true,
-      "single"
+      false,
+      "double"
     ],
     "radix": true,
     "semicolon": [
@@ -98,7 +98,7 @@
       "allow-null-check"
     ],
     "typedef-whitespace": [
-      true,
+      false,
       {
         "call-signature": "nospace",
         "index-signature": "nospace",
@@ -110,7 +110,7 @@
     "unified-signatures": true,
     "variable-name": false,
     "whitespace": [
-      true,
+      false,
       "check-branch",
       "check-decl",
       "check-operator",
